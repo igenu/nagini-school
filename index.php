@@ -225,16 +225,13 @@
 
             <!-- right -->
             <div class="et-about__txt">
-                <h6 class="et-section-sub-title anim-text">About Eventek</h6>
+                <h6 class="et-section-sub-title anim-text">About NaginiVidyalaya </h6>
                 <h2 class="et-section-title mb-[24px] md:mb-[19px] anim-text">
-                    Know More About The Eventek
+                    Know More About The NaginiVidyalaya 
                 </h2>
 
                 <p class="mb-[30px] text-[16px] font-light text-etGray md:mb-[30px] rev-slide-up">
-                    There are many variations of passages of Lorem Ipsum available,
-                    but the majority have suffered alteration in some form, by
-                    injected humour, or randomised words which don't look even
-                    slightly believable.
+                   NaginiVidyalaya Matric Hr Sec School for the past 5 decades  offers quality education with individual care and social responsibility in the rural sector.
                 </p>
 
                 <div
@@ -276,8 +273,7 @@
                             Whence at the Conference
                         </h6>
                         <p class="text-[16px] font-light text-etGray">
-                            Embarrassing hidden in the middle All the Lorem Ipsum
-                            generators on the Internet repeat predefined chunks
+                            Students have emerged with curriculum emphasizing on communicative skills, imaginative ideas , technical knowledge who excel in their career chosen.
                         </p>
                     </div>
                 </div>
