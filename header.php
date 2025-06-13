@@ -34,7 +34,7 @@
             <!-- heading -->
             <div class="et-sidebar-heading">
                 <div class="logo flex justify-between items-center">
-                    <a href="index.php"><img src="assets/img/logo-white.png" alt="logo" /></a>
+                    <a href="index.php"><img src="assets/img/logo.png" alt="logo" /></a>
 
                     <button type="button"
                         class="et-sidebar-close-btn border border-white/50 w-[45px] aspect-square shrink-0 text-white text-[22px] rounded-full hover:text-etBlue hover:bg-white">
@@ -50,12 +50,12 @@
 
     <!-- HEADER SECTION START -->
     <header
-        class="et-header to-be-fixed py-[30px] xxs:py-[20px] fixed top-0 w-full px-[155px] xxxl:px-[100px] xxl:px-[40px] xs:px-[20px] z-50">
+        class="et-header to-be-fixed py-[15px] xxs:py-[20px] fixed top-0 w-full px-[155px] xxxl:px-[100px] xxl:px-[40px] xs:px-[20px] z-50">
         <div class="flex justify-between items-center">
             <!-- logo -->
             <div class="logo shrink-0">
                 <a href="index.php">
-                    <img src="assets/img/logo-white.png" alt="logo" />
+                    <img src="assets/img/logo1.png" alt="logo" class="w-[100px]" />
                 </a>
             </div>
 
@@ -124,7 +124,7 @@
 
                     <!-- button -->
                     <a href="#"
-                        class="et-btn bg-white flex items-center justify-center gap-x-[15px] h-[50px] px-[15px] text-etBlue font-medium text-[17px] rounded-full group">
+                        class="et-btn bg-white flex items-center justify-center gap-x-[15px] h-[36px] px-[15px] text-etBlue font-medium text-[17px] rounded-full group">
                         <span class="icon">
                             <svg width="27" height="16" viewBox="0 0 27 16" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
