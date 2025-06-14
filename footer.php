@@ -25,9 +25,9 @@
                     </div>
                     <!-- txt -->
                     <div>
-                        <span class="block font-medium text-[14px]">Event Venue</span>
+                        <span class="block font-medium text-[14px]">Address</span>
                         <h5 class="font-medium text-[20px]">
-                            4648 Rocky Road Philadelphia PA, 1920
+                            NO:1, K.N.PALAYAM, SUNDAPPALAYAM(PO), COIMBATORE-641007
                         </h5>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                     <div>
                         <span class="block font-medium text-[14px]">Send Email</span>
                         <h5 class="font-medium text-[20px]">
-                            <a href="mailto:info@naginividyalayamhss.com">info@naginividyalayamhss.com</a>
+                            <a href="mailto:naginividyalaya@live.in">naginividyalaya@live.in</a>
                         </h5>
                     </div>
                 </div>
@@ -87,9 +87,9 @@
 
                     <!-- txt -->
                     <div>
-                        <span class="block font-medium text-[14px]">Call Emergency</span>
+                        <span class="block font-medium text-[14px]">Contact no</span>
                         <h5 class="font-medium text-[20px]">
-                            <a href="tel:88012365499">+88 0123 654 99</a>
+                            <a href="tel:9994518033">9994518033</a>
                         </h5>
                     </div>
                 </div>
@@ -99,10 +99,9 @@
                 class="flex md:flex-wrap xs:w-full gap-x-[65px] xxl:gap-x-[45px] xl:gap-[30px] gap-y-[25px] justify-between md:justify-center xxs:justify-start">
                 <!-- footer about -->
                 <div class="et-footer-about max-w-[295px] lg:max-w-none md:max-w-[300px] xs:max-w-full">
-                    <a href="#" class="mb-[25px] inline-block"><img src="assets/img/logo-white.png" alt="logo" /></a>
+                    <a href="#" class="mb-[25px] inline-block w-[100px]"><img src="assets/img/logo1.png" alt="logo" /></a>
                     <p class="font-light text-[#f2f2f2] text-[16px] mb-[25px]">
-                        Lorem ipsum dolor sit amet consectetur adipiscing elit ut
-                        aliquam purus sit amet magna elemen facilisis
+                        First private school in the area to provide inclusive and innovative education to the rural community inculcating cultural and traditional values.
                     </p>
 
                     <!-- social media -->
@@ -122,7 +121,7 @@
                 <!-- widget -->
                 <div class="et-footer-widget shrink-0 xs:grow">
                     <h5 class="text-[20px] font-medium mb-[16px]">
-                        Find <span class="text-etBlue">Events</span>
+                        Our <span class="text-etBlue">Links</span>
                     </h5>
 
                     <ul class="space-y-[17px] text-[16px] font-light text-[#f2f2f2]">
@@ -136,7 +135,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Outdoor Concerts</span>
+                                <span class="txt">Home</span>
                             </a>
                         </li>
                         <li>
@@ -149,7 +148,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Indoor Concerts</span>
+                                <span class="txt">About us</span>
                             </a>
                         </li>
                         <li>
@@ -162,7 +161,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Festivals</span>
+                                <span class="txt">Facilities</span>
                             </a>
                         </li>
                         <li>
@@ -175,7 +174,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Concerts</span>
+                                <span class="txt">Curriculum</span>
                             </a>
                         </li>
                         <li>
@@ -188,7 +187,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Event Calendar</span>
+                                <span class="txt">Gallery </span>
                             </a>
                         </li>
                     </ul>
@@ -211,7 +210,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Log In</span>
+                                <span class="txt">Admission</span>
                             </a>
                         </li>
                         <li>
@@ -224,7 +223,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">Register</span>
+                                <span class="txt">Careers</span>
                             </a>
                         </li>
                         <li>
@@ -237,7 +236,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">About Eventek</span>
+                                <span class="txt">Contact</span>
                             </a>
                         </li>
                         <li>
@@ -250,7 +249,7 @@
                                             class="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
                                     </svg>
                                 </span>
-                                <span class="txt">How It Works</span>
+                                <span class="txt">Academic</span>
                             </a>
                         </li>
                     </ul>
