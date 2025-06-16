@@ -3021,8 +3021,8 @@ video {
   background-color: rgb(255 255 255 / 0.1);
 }
 
-.bg-\[url\(\'\.\.\/assets\/img\/about-video-btn-bg\.jpg\'\)\] {
-  background-image: url("../assets/img/about-video-btn-bg.jpg");
+.bg-\[url\(\'\.\.\/assets\/img\/about-video-btn-bg\.png\'\)\] {
+  background-image: url("../assets/img/about-video-btn-bg.png");
 }
 
 .bg-\[url\(\'\.\.\/assets\/img\/auction-banner-1\.jpg\'\)\] {
@@ -7279,4 +7279,11 @@ video {
   .xxs\:\*\:w-\[40\%\] > * {
     width: 40%;
   }
+}
+
+
+
+
+.flex-row-reverse {
+    flex-direction: row-reverse;
 }

@@ -380,7 +380,7 @@
         <!-- footer bottom -->
         <div class="et-footer-bottom border-t border-white/20 py-[34px]">
             <p class="font-light text-[#f2f2f2] text-center text-[16px]">
-                &copy; 2024, NaginiVidyalaya All Rights Reserved.
+                &copy; 2025, NaginiVidyalaya All Rights Reserved.
             </p>
         </div>
     </div>

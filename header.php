@@ -12,10 +12,10 @@
 
     <!-- tailwind css -->
     <link href="src/output.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js">
-
+    
     <!-- custom css -->
     <link href="assets/css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js">
 </head>
 
 <body>
@@ -80,6 +80,7 @@
                         <!-- <li><a href="about.php">Academic</a></li> -->
                         <li><a href="about.php">Facilities</a></li>
                         <li><a href="about.php">Curriculum</a></li>
+                        <li><a href="about.php">Academic</a></li>
                         <li><a href="about.php">Admission</a></li>
                         <li><a href="about.php">Gallery</a></li>
                         <li><a href="about.php">Careers</a></li>
@@ -119,7 +120,7 @@
                                 <li><a href="news-details.php">News Details</a></li>
                             </ul>
                         </li> -->
-                        <li><a href="contact.php">Contact</a></li>
+                        <!-- <li><a href="contact.php">Contact</a></li> -->
                     </ul>
 
                     <!-- button -->
@@ -136,7 +137,7 @@
                                     class="fill-etBlue group-hover:fill-white transition" />
                             </svg>
                         </span>
-                        Academic</a>
+                        Contact</a>
                 </div>
 
                 <!-- mobile menu button -->

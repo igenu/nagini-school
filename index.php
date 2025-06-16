@@ -279,9 +279,7 @@
                 </div>
 
                 <div class="flex flex-wrap items-center gap-x-[30px] gap-y-[16px] rev-slide-up">
-                    <a href="contact.html"
-                        class="et-btn bg-etBlue inline-flex items-center justify-center gap-x-[13px] h-[45px] px-[15px] text-white font-normal text-[17px] rounded-full hover:!bg-black hover:!text-white">Register
-                        Now</a>
+                    <a href="about.php" class="et-btn bg-etBlue inline-flex items-center justify-center gap-x-[13px] h-[45px] px-[15px] text-white font-normal text-[17px] rounded-full hover:!bg-black hover:!text-white">Read more</a>
 
                     <div class="flex items-center gap-[10px]">
                         <div class="flex *:-ml-[20px]">
@@ -312,6 +310,288 @@
     </div>
 </section>
 <!-- ABOUT SECTION END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FEATURES SECTION STAR -->
+      <div
+        class="bg-[#EEF4FF] relative z-[1] after:absolute after:inset-0 after:bg-[url(../assets/img/features-bg.png)] after:bg-no-repeat after:bg-cover after:-z-[2] after:mix-blend-multiply after:pointer-events-none pb-[130px] xl:pb-[80px] md:pb-[60px] pt-[60px] xl:pt-[194px] md:pt-[174px]"
+      >
+        <div
+          class="container mx-auto max-w-[calc(100%-37.1vw)] xxxl:max-w-[calc(100%-350px)] xl:max-w-[calc(100%-170px)] px-[12px] lg:max-w-full rev-slide-up"
+        >
+          <!-- heading -->
+          <div class="text-center mb-[52px]">
+            <h6 class="et-section-sub-title anim-text">Event Features</h6>
+            <h2 class="et-section-title anim-text">
+              Unifying For A Better World
+            </h2>
+          </div>
+
+          <!-- cards -->
+          <div
+            class="grid grid-cols-2 md:grid-cols-3 sm:grid-cols-2 xxs:grid-cols-1 gap-[30px] lg:gap-[20px]"
+          >
+            <!-- single card -->
+            <div class="rounded-[20px] bg-white overflow-hidden group flex flex-row-reverse items-start">
+              <!-- icon -->
+              <div
+                class="w-[146px] aspect-square border-[20px] bg-etBlue border-[#EDF3FE] rounded-full rounded-tr-none ml-auto flex items-center justify-center"
+              >
+                <img
+                  src="assets/img/feature-1.png"
+                  alt="Feature icon"
+                  class="transition duration-[0.4s] group-hover:-scale-x-100 p-2"
+                />
+              </div>
+
+              <!-- text -->
+              <div class="px-[30px] xxl:px-[20px] py-[23px] xxl:py-[18px]">
+                <h5 class="font-medium text-[22px] text-etBlack mb-[8px]">
+                  <a href="#" class="hover:text-etBlue">VISION</a>
+                </h5>
+                <p class="font-light text-etGray text-[16px]">
+                  First private school in the area to provide inclusive and innovative education to the rural community inculcating cultural and traditional values.
+                </p>
+              </div>
+            </div>
+
+            <!-- single card -->
+            <div class="rounded-[20px] bg-white overflow-hidden group flex flex-row-reverse items-start">
+              <!-- icon -->
+              <div
+                class="w-[146px] aspect-square border-[20px] bg-etBlue border-[#EDF3FE] rounded-full rounded-tr-none ml-auto flex items-center justify-center"
+              >
+                <img
+                  src="assets/img/feature-2.png"
+                  alt="Feature icon"
+                  class="transition duration-[0.4s] group-hover:-scale-x-100 p-2"
+                />
+              </div>
+
+              <!-- text -->
+              <div class="px-[30px] xxl:px-[20px] py-[23px] xxl:py-[18px]">
+                <h5 class="font-medium text-[22px] text-etBlack mb-[8px]">
+                  <a href="#" class="hover:text-etBlue">MISSION</a>
+                </h5>
+                <p class="font-light text-etGray text-[16px]">
+                  Building on 49 years of educational excellence to empower young minds with knowledge,  values and skills for a bright future.
+                </p>
+              </div>
+            </div>
+
+            
+          </div>
+        </div>
+
+        <!-- vectors -->
+        <div class="md:hidden">
+          <img
+            src="assets/img/features-vector-1.png"
+            alt="vector"
+            class="pointer-events-none absolute bottom-[130px] left-[40px] -z-[1]"
+          />
+          <!-- <img
+            src="assets/img/features-vector-2.png"
+            alt="vector"
+            class="pointer-events-none absolute top-[222px] right-[180px] -z-[1]"
+          /> -->
+          <img
+            src="assets/img/features-vector-3.png"
+            alt="vector"
+            class="pointer-events-none absolute bottom-[138px] right-[106px] -z-[1]"
+          />
+        </div>
+      </div>
+      <!-- FEATURES SECTION end -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <!-- GALLERY SECTION START -->
+      <section class="grid grid-cols-4 lg:grid-cols-3 sm:grid-cols-2">
+        <!-- single gallery item -->
+        <div
+          class="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g1.png" alt="gallery image" />
+          <a
+            href="assets/img/g1.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g6.png" alt="gallery image" />
+          <a
+            href="assets/img/g6.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g2.png" alt="gallery image" />
+          <a
+            href="assets/img/g2.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g3.png" alt="gallery image" />
+          <a
+            href="assets/img/g3.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g4.png" alt="gallery image" />
+          <a
+            href="assets/img/g4.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g5.png" alt="gallery image" />
+          <a
+            href="assets/img/g5.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="bg-etBlue xxs:col-span-2 relative z-[1] flex items-center justify-center text-center before:absolute before:inset-0 before:bg-[url('../assets/img/gallery-text-bg.jpg')] before:-z-[1] before:mix-blend-multiply p-[15px] xxs:pt-[25px] xxs:pb-[30px]"
+        >
+          <div>
+            <h6
+              class="et-section-sub-title !text-white before:!bg-white anim-text"
+            >
+              Gallery
+            </h6>
+            <span
+              class="block text-white font-semibold text-[100px] leading-[0.86] mb-[13px] xxl:text-[80px] xl:text-[60px] md:!text-[50px] xs:!text-[45px] xs:!mb-[10px] anim-text"
+              >2020</span
+            >
+            <h2
+              class="et-section-title !text-white !font-normal mb-[31px] xxl:!text-[40px] xl:!text-[35px] md:!text-[30px] md:mb-[21px] anim-text"
+            >
+              Our Events Gallery
+            </h2>
+            <a
+              href="gallery.html"
+              class="inline-flex items-center justify-center rounded-full border border-white text-[16px] h-[45px] px-[15px] text-white hover:bg-white hover:text-etBlue"
+              >View All Gallery</a
+            >
+          </div>
+        </div>
+
+        <!-- single gallery item -->
+        <div
+          class="relative xxs:col-span-2 z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100"
+        >
+          <img src="assets/img/g7.png" alt="gallery image" />
+          <a
+            href="assets/img/g7.png"
+            data-fslightbox="gallery"
+            class="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue"
+          >
+            <i class="fa-plus fa-regular"></i>
+          </a>
+        </div>
+      </section>
+      <!-- GALLERY SECTION END -->
+
+
+
+
+
+      
 
 
 
