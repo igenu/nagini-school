@@ -486,6 +486,8 @@
           >
             <i class="fa-plus fa-regular"></i>
           </a>
+        <div>
+
         </div>
 
         <!-- single gallery item -->
@@ -569,7 +571,7 @@
               >View All Gallery</a
             >
           </div>
-        </div>
+        
 
         <!-- single gallery item -->
         <div
@@ -583,6 +585,7 @@
           >
             <i class="fa-plus fa-regular"></i>
           </a>
+        </div>
         </div>
       </section>
       <!-- GALLERY SECTION END -->
