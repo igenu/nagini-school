@@ -265,7 +265,7 @@
                         <!-- single upcoming events -->
                         <div class="flex items-center gap-x-[30px] xxs:gap-x-[15px]">
                             <div class="rounded-[15px] overflow-hidden shrink-0">
-                                <img src="assets/img/cta-bg-2.jpg" alt="Event Image" class="w-[80px] aspect-square" />
+                                <img src="assets/img/g7.png" alt="Event Image" class="w-[80px] aspect-square" />
                             </div>
 
                             <div>
@@ -312,7 +312,7 @@
                                 </span>
 
                                 <h6 class="font-medium text-[20px] text-white">
-                                    <a href="news-details.html" class="hover:text-etBlue">Web Developer Meetup</a>
+                                    <a href="news-details.html" class="hover:text-etBlue">Sports Day</a>
                                 </h6>
                             </div>
                         </div>
@@ -320,7 +320,7 @@
                         <!-- single upcoming events -->
                         <div class="flex items-center gap-x-[30px] xxs:gap-x-[15px]">
                             <div class="rounded-[15px] overflow-hidden shrink-0">
-                                <img src="assets/img/evenet-sched-2.jpg" alt="Event Image"
+                                <img src="assets/img/g7.png" alt="Event Image"
                                     class="w-[80px] aspect-square" />
                             </div>
 
@@ -368,7 +368,7 @@
                                 </span>
 
                                 <h6 class="font-medium text-[20px] text-white">
-                                    <a href="news-details.html" class="hover:text-etBlue">Web Developer Meetup</a>
+                                    <a href="news-details.html" class="hover:text-etBlue"> Annual Day Function</a>
                                 </h6>
                             </div>
                         </div>

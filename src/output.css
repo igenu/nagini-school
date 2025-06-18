@@ -3082,7 +3082,7 @@ video {
 }
 
 .bg-\[url\(\.\.\/assets\/img\/stats-bg\.jpg\)\] {
-  background-image: url(../assets/img/stats-bg.jpg);
+  background-image: url(../assets/img/a-set.png);
 }
 
 .bg-\[url\(\.\.\/assets\/img\/testimonial-bg\.jpg\)\] {
@@ -4825,7 +4825,7 @@ video {
 
 .before\:bg-\[url\(\'\.\.\/assets\/img\/contact-info-bg\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url("../assets/img/contact-info-bg.jpg");
+  background-image: url("../assets/img/g2.png");
 }
 
 .before\:bg-\[url\(\'\.\.\/assets\/img\/cta-bg-1\.jpg\'\)\]::before {
@@ -4835,7 +4835,7 @@ video {
 
 .before\:bg-\[url\(\'\.\.\/assets\/img\/cta-bg-2\.jpg\'\)\]::before {
   content: var(--tw-content);
-  background-image: url("../assets/img/cta-bg-2.jpg");
+  background-image: url("../assets/img/map-img-bg.png");
 }
 
 .before\:bg-\[url\(\'\.\.\/assets\/img\/footer-1-bg\.jpg\'\)\]::before {
@@ -7286,4 +7286,15 @@ video {
 
 .flex-row-reverse {
     flex-direction: row-reverse;
+}
+
+
+
+
+
+.py-\[60px\] {
+    padding: 60px 0px;
+}
+.pb-\[80px\] {
+    padding-bottom: 80px ;
 }
