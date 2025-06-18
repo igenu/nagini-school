@@ -34,7 +34,7 @@
             <!-- heading -->
             <div class="et-sidebar-heading">
                 <div class="logo flex justify-between items-center">
-                    <a href="index.php"><img src="assets/img/logo.png" alt="logo" /></a>
+                    <a href="index.php"><img src="assets/img/n-logo.png" alt="logo" /></a>
 
                     <button type="button"
                         class="et-sidebar-close-btn border border-white/50 w-[45px] aspect-square shrink-0 text-white text-[22px] rounded-full hover:text-etBlue hover:bg-white">
@@ -55,7 +55,7 @@
             <!-- logo -->
             <div class="logo shrink-0">
                 <a href="index.php">
-                    <img src="assets/img/logo1.png" alt="logo" class="w-[100px]" />
+                    <img src="assets/img/n-logo.png" alt="logo" class="w-[100px]" style="width: 310px;" />
                 </a>
             </div>
 

@@ -12,7 +12,7 @@
                     <div class="mx-[15.5em] xxxl:mx-[10em] xxl:mx-[40px] xs:mx-[12px]">
                         <div
                             class="flex md:flex-col items-center justify-between gap-x-[30px] gap-y-[30px] md:grid-cols-1">
-                            <div class="left relative z-[20] w-[55%] md:w-full">
+                            <div class="left relative z-[20] w-[70%] md:w-full banner-bg-set">
                                 <h6 class="font-kalam font-bold text-[2.4rem] mb-[3px] anim-text">
                                     Over 48 years of imparting education
                                 </h6>
@@ -69,7 +69,7 @@
                     <div class="mx-[15.5em] xxxl:mx-[10em] xxl:mx-[40px] xs:mx-[12px]">
                         <div
                             class="flex md:flex-col items-center justify-between gap-x-[30px] gap-y-[30px] md:grid-cols-1">
-                            <div class="left relative z-[20] w-[55%] md:w-full">
+                            <div class="left relative z-[20] w-[70%] md:w-full banner-bg-set">
                                 <h6 class="font-kalam font-bold text-[2.4rem] mb-[3px] anim-text">
                                     Over 48 years of imparting education
                                 </h6>
@@ -126,7 +126,7 @@
                     <div class="mx-[15.5em] xxxl:mx-[10em] xxl:mx-[40px] xs:mx-[12px]">
                         <div
                             class="flex md:flex-col items-center justify-between gap-x-[30px] gap-y-[30px] md:grid-cols-1">
-                            <div class="left relative z-[20] w-[55%] md:w-full">
+                            <div class="left relative z-[20] w-[70%] md:w-full banner-bg-set">
                                 <h6 class="font-kalam font-bold text-[2.4rem] mb-[3px] anim-text">
                                     Over 48 years of imparting education
                                 </h6>
@@ -765,7 +765,7 @@
                     <div class="et-speaker bg-white rounded-[16px] relative z-[1] group">
                         <div
                             class="et-speaker-img overflow-hidden before:absolute before:inset-0 before:bg-gradient-to-t before:from-etBlue before:to-transparent before:opacity-0 before:transition before:duration-[400ms] before:z-[1] group-hover:before:opacity-100">
-                            <img src="assets/img/t1.png" alt="speaker image"
+                            <img src="assets/img/teacher-1.png" alt="speaker image"
                                 class="mx-auto w-full transition duration-[400ms">
                         </div>
 
@@ -793,7 +793,7 @@
                     <div class="et-speaker bg-white rounded-[16px] relative group">
                         <div
                             class="et-speaker-img before:absolute before:inset-0 before:bg-gradient-to-t before:from-etBlue before:to-transparent before:opacity-0 before:transition before:duration-[400ms] before:z-[1] group-hover:before:opacity-100">
-                            <img src="assets/img/t2.png" alt="speaker image"
+                            <img src="assets/img/teacher-2.png" alt="speaker image"
                                 class="mx-auto w-full transition duration-[400ms]">
                         </div>
 
@@ -821,7 +821,7 @@
                     <div class="et-speaker bg-white rounded-[16px] relative group">
                         <div
                             class="et-speaker-img before:absolute before:inset-0 before:bg-gradient-to-t before:from-etBlue before:to-transparent before:opacity-0 before:transition before:duration-[400ms] before:z-[1] group-hover:before:opacity-100">
-                            <img src="assets/img/t3.png" alt="speaker image"
+                            <img src="assets/img/teacher-3.png" alt="speaker image"
                                 class="mx-auto w-full transition duration-[400ms]">
                         </div>
 

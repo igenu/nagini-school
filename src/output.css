@@ -4784,7 +4784,7 @@ video {
 
 .before\:bg-etBlue\/40::before {
   content: var(--tw-content);
-  background-color: rgb(18 96 254 / 0.4);
+  /* background-color: rgb(18 96 254 / 0.4); */
 }
 
 .before\:bg-etBlue\/80::before {
@@ -7297,4 +7297,20 @@ video {
 }
 .pb-\[80px\] {
     padding-bottom: 80px ;
+}
+
+.banner-bg-set{
+  background: #00000046;
+  padding: 10px 20px;
+}
+
+
+element.style {
+}
+.banner-bg-set {
+    background: #00000046;
+    padding: 10px 20px;
+}
+.w-\[70\%\] {
+    width: 70%;
 }
